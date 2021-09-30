@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @max5800
 - 👀 I’m interested in Software, Electronics and stuff like that. 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Stuff ? 
+- 💞️ I’m looking to find a new Job :)
 - 📫 How to reach me: rehms.maximilian@gmail.com
 
 <!---
