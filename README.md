@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @max5800
-- 👀 I’m interested in Software, Electronics and stuff like that. 
-- 🌱 I’m currently learning TypeScript/Angular.
-- 💞️ I’m looking to find a new Job.
+- 👀 I’m interested in eoftware & electronics - iot stuff. 
+- 🌱 I’m currently learning Azure Cloud Egineering.
+- 💼 Cloud Manager AWS @ FIS-ASP.
 - 📫 How to reach me: rehms.maximilian@gmail.com
 
 <!---
