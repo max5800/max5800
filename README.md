@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @max5800
 - 👀 I’m interested in Software & Electronics.
 - 🌱 I’m currently learning Azure Cloud Egineering.
-- 💼 Cloud Manager AWS @ FIS-ASP.
+- 💼 Cloud Architect @ FIS-ASP.
 - 📫 How to reach me: rehms.maximilian@gmail.com
 
 <!---
