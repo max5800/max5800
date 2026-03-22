@@ -6,7 +6,6 @@
 
 *Building the infrastructure that makes AI work — from bare metal to Kubernetes.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aistudio--maximilian--rehms.web.app-D4EAC8?style=flat-square&labelColor=121511&color=D4EAC8)](https://aistudio-maximilian-rehms.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximilian_Rehms-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilian-rehms-203767190)
 [![Location](https://img.shields.io/badge/📍-Bamberg,_Germany-6b7c6e?style=flat-square&labelColor=1c211b)](https://github.com/max5800)
 
@@ -25,42 +24,6 @@ Secret Mgmt:      HashiCorp Vault  ·  External Secrets Operator
 CI/CD:            GitHub Actions  ·  OIDC  ·  Zero static credentials
 AI Infra:         vLLM  ·  Ollama  ·  GPU Passthrough (PCIe)
 ```
-
----
-
-## 🏗️ Current Projects
-
-### 🏠 [home-lab](https://github.com/max5800/home-lab) — Enterprise GitOps Homelab
-Fully automated, GitOps-driven homelab on Proxmox. Zero static credentials, OIDC auth everywhere, Rancher Fleet for K8s workload delivery.
-
-`OpenTofu` `Terragrunt` `Ansible` `HashiCorp Vault` `K3s` `Rancher Fleet`
-
-### 🌱 [wdst-growbox](https://github.com/max5800/wdst-growbox) — IoT Grow Controller
-Real-time grow environment monitoring & automation. FastAPI backend, React frontend, ESP32 sensors. Used daily — dogfooding drives the features.
-
-`FastAPI` `React` `ESP32` `Docker` `IoT`
-
-### ⛽ [Tankstelle Royale](https://github.com/max5800/Tankstelle-Royale) — Multiplayer Fuel Price Game
-Multiplayer prediction game based on live German fuel prices. JWT auth, rate limiting, zero static secrets.
-
-`FastAPI` `React` `PostgreSQL` `JWT`
-
-### 🐠 [Klaus Training](https://github.com/max5800/klaus-training) — LLM Fine-Tuning
-Fine-tuning Qwen2.5 1.5B with a custom personality. Easter egg for the portfolio, runs locally via WebLLM.
-
-`Python` `Qwen2.5` `Fine-Tuning` `WebLLM`
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=max5800&show_icons=true&theme=dark&bg_color=121511&title_color=D4EAC8&icon_color=D4EAC8&text_color=E8F0EC&border_color=2e3a2e&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max5800&layout=compact&theme=dark&bg_color=121511&title_color=D4EAC8&text_color=E8F0EC&border_color=2e3a2e&hide_border=false&langs_count=8)
-
-</div>
 
 ---
 
